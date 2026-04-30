@@ -67,5 +67,5 @@ The project includes comprehensive plotting:
    git clone (https://github.com/msh165/jmi-msc-ai-ml-RNN-tatasteel-multi-feature-output.git)
 2. Install Dependencies
    ```bash
-  pip install torch pandas matplotlib scikit-learn seaborn
+   pip install torch pandas matplotlib scikit-learn seaborn
 3. Open tatasteel_analysis.ipynb in Jupyter Notebook or VS Code and run all cells.
